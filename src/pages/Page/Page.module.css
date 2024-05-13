@@ -1,0 +1,69 @@
+.HEAD {
+    background-color: rgba(0, 0, 0, 0.952);
+    height: 250px;
+    position: relative;
+}
+
+.PHOTO {
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+}
+
+.picture {
+    width: 700px;
+    height: 400px;
+    margin: 20px 0px 20px 130px;
+}
+
+.description {
+    position: absolute;
+    text-align: center;
+    z-index: 1;
+    top: 60px;
+    left: 38%;
+    color: white;
+}
+
+.text {
+    margin: 60px 0px 20px 130px;
+}
+
+.man {
+    width: 50px;
+    height: 50px;
+    margin-left: 130px;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.work {
+    position: absolute;
+    top: 20px;
+}
+
+.rating {
+    display: flex;
+}
+
+.info {
+    display: flex;
+    position: relative;
+}
+
+p {
+    margin-left: 20px;
+    padding-bottom: 5px;
+}
+
+.receive {
+    position: relative;
+}
+
+.star{
+    width: 90px;
+    height: 25px;
+    padding-top: 12px;
+    padding-left: 5px;
+    padding-right: 0;
+}
